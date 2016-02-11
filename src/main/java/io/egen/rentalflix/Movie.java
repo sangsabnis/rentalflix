@@ -6,4 +6,5 @@ package io.egen.rentalflix;
  */
 public class Movie {
 	//POJO IMPLEMENTATION GOES HERE
+    
 }
